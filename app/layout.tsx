@@ -23,9 +23,9 @@ export const metadata: Metadata = {
   },
   keywords: [
     'Arslan Zubair',
-    'Arslan Zubair',
-    'Arslan Zubair Developer',
-    'Arslan Zubair Full Stack Developer',
+    'Arslan',
+    'Zubair',
+    'Arslan Full Stack Developer',
     'Full Stack Developer',
     'MERN Developer',
     'React Developer',
