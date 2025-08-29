@@ -32,7 +32,7 @@ export default function Footer() {
                   <Github className="h-5 w-5" />
                 </Button>
               </a>
-              {/* <a href="https://x.com/Aliyann712709" target="_blank" rel="noopener noreferrer" aria-label="Twitter">
+              {/* <a href="https://x.com/Arslan Zubairn712709" target="_blank" rel="noopener noreferrer" aria-label="Twitter">
                 <Button variant="ghost" size="icon" className="text-muted-foreground hover:text-foreground">
                   <Twitter className="h-5 w-5" />
                 </Button>

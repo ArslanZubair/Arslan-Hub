@@ -84,7 +84,7 @@ export default function CTASection() {
                   </a>
 
                   {/* <a
-                    href="https://x.com/Aliyann712709"
+                    href="https://x.com/Arslan Zubairn712709"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex items-center gap-3 p-3 rounded-lg transition-colors hover:bg-accent"
@@ -94,7 +94,7 @@ export default function CTASection() {
                     </div>
                     <div>
                       <h3 className="font-medium">Twitter</h3>
-                      <p className="text-sm text-muted-foreground">@Aliyann712709</p>
+                      <p className="text-sm text-muted-foreground">@Arslan Zubairn712709</p>
                     </div>
                   </a> */}
 

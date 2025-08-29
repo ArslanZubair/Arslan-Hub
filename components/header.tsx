@@ -83,7 +83,7 @@ export default function Header() {
                 <GithubIcon className="h-4 w-4" />
               </Button>
             </a>
-            {/* <a href="https://x.com/Aliyann712709" target="_blank" rel="noopener noreferrer" aria-label="Twitter">
+            {/* <a href="https://x.com/Arslan Zubairn712709" target="_blank" rel="noopener noreferrer" aria-label="Twitter">
               <Button variant="ghost" size="icon" className="text-muted-foreground hover:text-foreground">
                 <TwitterIcon className="h-4 w-4" />
               </Button>

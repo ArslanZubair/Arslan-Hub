@@ -62,7 +62,7 @@ export const projects = [
   //   grant: null,
   //   links: {
   //     github: "https://github.com/ArslanZubair/Cryptocurrency-Tracker",
-  //     live: "https://cryptocurrency-tracker-aliyan.netlify.app",
+  //     live: "https://cryptocurrency-tracker-Arslan Zubair.netlify.app",
   //   },
   //   image: "/Projects_Screenshots/Crypto_Tracker/1.png",
   // },

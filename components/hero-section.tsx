@@ -57,7 +57,7 @@ export default function HeroSection() {
     },
     // {
     //   name: "Twitter",
-    //   url: "https://x.com/Aliyann712709",
+    //   url: "https://x.com/Arslan Zubairn712709",
     //   icon: "twitter"
     // }
   ]

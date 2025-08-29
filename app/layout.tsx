@@ -16,17 +16,17 @@ const firaCode = Fira_Code({
 });
 
 export const metadata: Metadata = {
-  title: 'Aliyan Arif | Full-Stack Web Developer',
+  title: 'Arslan Zubair | Full-Stack Web Developer',
   description: 'Full-stack web developer with expertise in building modern, scalable, and user-friendly web applications using React, Next.js, Node.js, and MongoDB.',
   icons: {
     icon: '/favicon.ico',
   },
   keywords: [
-    'Aliyan Arif',
-    'Aliyan',
+    'Arslan Zubair',
+    'Arslan Zubair',
     'Arif',
-    'Aliyan Developer',
-    'Aliyan Full Stack Developer',
+    'Arslan Zubair Developer',
+    'Arslan Zubair Full Stack Developer',
     'Full Stack Developer',
     'MERN Developer',
     'React Developer',
@@ -40,9 +40,9 @@ export const metadata: Metadata = {
     'React Developer Pakistan',
     'MERN Developer Pakistan'
   ],
-  authors: [{ name: 'Aliyan Arif' }],
-  creator: 'Aliyan Arif',
-  publisher: 'Aliyan Arif',
+  authors: [{ name: 'Arslan Zubair' }],
+  creator: 'Arslan Zubair',
+  publisher: 'Arslan Zubair',
   robots: {
     index: true,
     follow: true,
@@ -58,21 +58,21 @@ export const metadata: Metadata = {
     type: 'website',
     locale: 'en_US',
     url: 'https://yourdomain.com',
-    title: 'Aliyan Arif | Full-Stack Web Developer',
+    title: 'Arslan Zubair | Full-Stack Web Developer',
     description: 'Full-stack web developer specializing in React, Next.js, Node.js, and MongoDB. Passionate about building modern and scalable web apps.',
-    siteName: 'Aliyan Portfolio',
+    siteName: 'Arslan Zubair Portfolio',
     images: [
       {
         url: '/logo.png',
         width: 1200,
         height: 630,
-        alt: 'Aliyan Arif - Full-Stack Developer',
+        alt: 'Arslan Zubair - Full-Stack Developer',
       },
     ],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Aliyan Arif | Full-Stack Web Developer',
+    title: 'Arslan Zubair | Full-Stack Web Developer',
     description: 'Full-stack web developer with expertise in React, Next.js, Node.js, and MongoDB.',
     creator: '@yourhandle',
     images: ['/twitter-image.jpg'],
