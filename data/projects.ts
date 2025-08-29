@@ -6,7 +6,7 @@ export const projects = [
     badges: ["Next.js", "Javascript", "Tailwind", "CSS3"],
     grant: null,
     links: {
-      github: "https://github.com/ArslanZubair",
+      github: "https://github.com/ArslanZubair/Dans-portfolio.git",
       live: "https://arslanzubair.github.io/Dans-portfolio/",
     },
     image: "/Projects_Screenshots/website_portfolio/1.png",
@@ -50,7 +50,7 @@ export const projects = [
     badges: ["OpenAI", "Tailwind", "TypeScript","Open Api","Streamlit"],
     grant: null,
     links: {
-      github: "https://github.com/ArslanZubair",
+      github: "https://github.com/ArslanZubair/document-summarizer_2.git",
       live: "https://python3-7jfuzhvdh9ickbqtkv8jdl.streamlit.app/",
     },
       image: "/Projects_Screenshots/Document_Summarizer/3.png",
