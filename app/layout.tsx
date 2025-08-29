@@ -24,7 +24,6 @@ export const metadata: Metadata = {
   keywords: [
     'Arslan Zubair',
     'Arslan Zubair',
-    'Arif',
     'Arslan Zubair Developer',
     'Arslan Zubair Full Stack Developer',
     'Full Stack Developer',
