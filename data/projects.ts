@@ -6,7 +6,7 @@ export const projects = [
     badges: ["Next.js", "Javascript", "Tailwind", "CSS3"],
     grant: null,
     links: {
-      github: "https://github.com/ArslanZubair/Store-It",
+      github: "https://github.com/ArslanZubair",
       live: "https://arslanzubair.github.io/Dans-portfolio/",
     },
     image: "/Projects_Screenshots/website_portfolio/1.png",
@@ -17,7 +17,7 @@ export const projects = [
     badges: ["React", "Node.js", "Socket.io", "MongoDB"],
     grant: null,
     links: {
-      github: "https://github.com/ArslanZubair/Gabble-Chat-App", 
+      github: "https://github.com/ArslanZubair", 
       live: "https://www.adstudios.com.pk/", 
     },
     image: "/Projects_Screenshots/AD_Studios/1.png",
@@ -39,7 +39,7 @@ export const projects = [
     badges: ["React", "Tailwind", "LocalStorage", "Lordicon"],
     grant: null,
     links: {
-      github: "https://github.com/ArslanZubair/Password-Manager",
+      github: "https://github.com/ArslanZubair",
       live: "https://pixelnovastudio.netlify.app/#home",
     },
       image: "/Projects_Screenshots/Pixel_Nova/1.png",
@@ -50,8 +50,8 @@ export const projects = [
     badges: ["OpenAI", "Tailwind", "TypeScript","Open Api","Streamlit"],
     grant: null,
     links: {
-      github: "https://python3-7jfuzhvdh9ickbqtkv8jdl.streamlit.app/",
-      live: "https://hire-genius-three.vercel.app",
+      github: "https://github.com/ArslanZubair",
+      live: "https://python3-7jfuzhvdh9ickbqtkv8jdl.streamlit.app/",
     },
       image: "/Projects_Screenshots/Document_Summarizer/3.png",
   },
